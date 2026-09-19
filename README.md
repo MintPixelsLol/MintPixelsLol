@@ -1,4 +1,10 @@
-## Hi there 👋
+# hey it's me it's mintity
+![the mint cube gif](ezgif.com-optimize(1).gif)
+
+> let's be real, I use github mostly for collabs or projects I want public, because I'm too lazy to upload MY private projects
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MintPixelsLol&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+
+this readme is WIP and probably will stay like that for the foreseeable future
 
 <!--
 **MintPixelsLol/MintPixelsLol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
